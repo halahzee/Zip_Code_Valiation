@@ -2,12 +2,6 @@
 
 A form input field will accept a zip code...
 
-Validate the zip code before accepting it into the data object.
-
-What are the rules?
-
-numeric
-5 digits OR 9 digits 
 
 Test Plan 
 
